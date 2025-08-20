@@ -1,4 +1,7 @@
 import React, { useState } from "react";
+import './section.css';
+import './body.css';
+import './button.css'
 
 export default function App() {
   const [numero, setNumero] = useState(0);
